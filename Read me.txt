@@ -1,0 +1,8 @@
+Database Name:	sample
+Table Name:	employee_info_1
+coloums Name:	Employee_id
+		Firstname
+		Age
+		Username
+		Password
+This function include login also 
